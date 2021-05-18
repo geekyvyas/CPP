@@ -10,7 +10,7 @@
 
 ## Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
 
-## This Repository is meant for everyone to create code and learn to contribute to open source
+## This Repository is meant for everyone to create code and learn to contribute to open source.
 
 
 
@@ -42,6 +42,7 @@ The implementations/codes which are added/merged in CPP-:
 <img src="https://github.com/akshitagit/CPP/blob/master/trend.jpeg" width="230px">
 
 
+### Contributors :pray: :dizzy:
+![105](https://contributors-img.web.app/image?repo=akshitagit/CPP)
 
 Happy coding!
-
